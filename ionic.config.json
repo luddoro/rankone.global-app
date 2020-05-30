@@ -1,0 +1,7 @@
+{
+  "name": "RankOneReact",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

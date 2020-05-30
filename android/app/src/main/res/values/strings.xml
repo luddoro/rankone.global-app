@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">RankOne</string>
+    <string name="title_activity_main">RankOne</string>
+    <string name="package_name">global.rankone.rankone</string>
+    <string name="custom_url_scheme">global.rankone.rankone</string>
+</resources>

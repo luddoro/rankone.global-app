@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "571807154341",
+    "firebase_url": "https://push-92ca3.firebaseio.com",
+    "project_id": "push-92ca3",
+    "storage_bucket": "push-92ca3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571807154341:android:5ef84df8531d97cd634d4c",
+        "android_client_info": {
+          "package_name": "global.rankone.rankone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571807154341-kse3r5ob5jg78mik9lrguot2f9l31al7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdjNd_vonWcTpo85FjoGpwsaU7zKtVM9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571807154341-kse3r5ob5jg78mik9lrguot2f9l31al7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

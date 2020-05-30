@@ -1,0 +1,20 @@
+{
+	"appId": "global.rankone.rankone",
+	"appName": "RankOne",
+	"bundledWebRuntime": false,
+	"npmClient": "npm",
+	"webDir": "build",
+	"cordova": {},
+	"plugins": {
+		"SplashScreen": {
+			"backgroundColor": "#ffffffff",
+			"androidScaleType": "CENTER_CROP",
+			"androidSpinnerStyle": "small",
+			"iosSpinnerStyle": "small",
+			"spinnerColor": "#FFFFFF",
+			"showSpinner": true,
+			"splashFullScreen": true,
+			"splashImmersive": true
+		}
+	}
+}
